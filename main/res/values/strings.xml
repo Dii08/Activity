@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HerindioActivity</string>
+    <string name="length">panjang</string>
+    <string name="width">lebar</string>
+    <string name="height">tinggi</string>
+    <string name="calculate">menghitung</string>
+    <string name="result">hasil</string>
+</resources>
